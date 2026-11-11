@@ -2,7 +2,7 @@
 
 Estudiante de Ingeniería de Software. Estoy aprendiendo a programar y buscando mis primeras prácticas.
 
-##¿ Qué estoy aprendiendo ?
+## ¿ Qué estoy aprendiendo ?
 
 - Java y programación orientada a objetos
 - HTML y CSS
